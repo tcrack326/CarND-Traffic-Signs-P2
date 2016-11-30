@@ -1,6 +1,10 @@
 # Self-Driving Car Engineer Nanodegree
 # Deep Learning
-## Project: Build a Traffic Sign Recognition Program
+## Project: Build a Traffic Sign Recognition Program - First Submission for Thomas McCracken
+
+### Submission
+
+This is my first submission for the Traffic Sign Recognition Program. It is a Convolutional Neural Network. Below are the original instructions to start the Jupyter Notebook. There is also a Traffic_Signs_Recognition.html file showing the results of the notebook.
 
 ### Overview
 
